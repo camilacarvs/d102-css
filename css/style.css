@@ -25,3 +25,18 @@ nav{
     justify-content: space-around;
     height: 50px;
 }
+
+section{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+section img{
+    height: 250px;
+}
+
+section img:nth-child(3):hover{
+    width: 100%;
+
+}
