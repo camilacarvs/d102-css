@@ -1,0 +1,16 @@
+a:hover{
+    font-size: 16pt;
+}
+
+body {
+    font-family: 'Caesar Dressing', cursive;
+    margin: 0;
+}
+
+nav{
+    align-items: center;
+    background-color: rgb(218, 247, 138);
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+}
